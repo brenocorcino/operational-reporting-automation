@@ -1,0 +1,9 @@
+report_date,hub,exception_type,affected_shipments
+2026-08-25,SP-01,missing_dispatch_scan,48
+2026-08-25,SP-02,missing_receipt_scan,37
+2026-08-25,RJ-01,missing_collection_scan,21
+2026-08-25,MG-01,missing_dispatch_scan,29
+2026-08-25,PR-01,missing_receipt_scan,18
+2026-08-25,SC-01,missing_collection_scan,12
+2026-08-25,BA-01,missing_dispatch_scan,16
+2026-08-25,GO-01,missing_receipt_scan,11
